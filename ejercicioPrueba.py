@@ -10,5 +10,6 @@ p1= (b*d)/2
 p2= (b*c)/2
 p3= (b*a)-(p1 + p2)
 areaTotal= p1 + p2 + p3
-print("El área de tu terreno es de: ", areaTotal, " m^2")
+costo= areaTotal*3450
+print("El costo de tu terreno es de: ", costo, " pesos")
 
